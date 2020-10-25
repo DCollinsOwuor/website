@@ -47,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-David Collins holds a PhD in Virus Genomics and Bioinformatics from the Open University of UK. He is currently developing advanced bioinformatics pipelines for the analysis of virus genome sequence data from his PhD work at KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya.
+David Collins holds a PhD in Virus Genomics and Bioinformatics from the Open University of UK. He is currently developing advanced bioinformatics pipelines for additional analyses of virus genome sequence data from his PhD work at KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya.
 
 His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus, coronavirus, and Ebola virus. His current research seeks to: determine how closely “related” or similar viruses are to one another genetically; monitor how viruses evolve; identify genetic changes that affect virus’ properties, for example, genetic changes associated with faster virus spread, causing severe disease; and monitor for genetic changes in zoonotic viruses circulating in animal populations that could enable them to infect humans.
