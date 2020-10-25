@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD
     institution: The Open University (UK)
-    year: 2016 - Present
+    year: 2016 - 2020
   - course: MSc in Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
@@ -15,7 +15,7 @@ education:
     year: 2010
 email: "dcollins@kemri-wellcome.org"
 interests:
-- Viral genomics and bioinformatics
+- Pathogen genomics and bioinformatics
 - Outbreak (and pandemic) response and preparedness
 - One Health
 - Vaccines
@@ -24,7 +24,7 @@ name: David Collins Owuor
 organizations:
 - name: KEMRI-Wellcome Trust
   url: "https://kemri-wellcome.org"
-role: PhD Candidate
+role: CDY Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -47,6 +47,6 @@ user_groups:
 - Visitors
 ---
 
-David Collins is completing his PhD in Virus Genomics and Bioinformatics at the KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya.
+David Collins recently completed his PhD in Virus Genomics and Bioinformatics at the KEMRI-Wellcome Trust Research Programme, Kilifi, Kenya. He is currently undertaking an additional research year, to develop advanced bioinformatics pipelines for analysis of virus genome data from work.
 
 His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus, coronavirus, and Ebola virus. His current research seeks to: determine how closely “related” or similar viruses are to one another genetically; monitor how viruses evolve; identify genetic changes that affect virus’ properties, for example, genetic changes associated with faster virus spread, causing severe disease; and monitor for genetic changes in zoonotic viruses circulating in animal populations that could enable them to infect humans.
