@@ -1,6 +1,6 @@
 ---
 title: Pandemic flu viruses
-summary: Sequencing of pandemic influenza viruses
+summary: Sequencing of pandemic influenza A viruses
 tags:
 - influenza
 - A(H1N1)pdm09 virus
