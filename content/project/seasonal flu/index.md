@@ -14,7 +14,7 @@ date: "2019-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Global phylogeny of influenza A(H1N1)pdm09, 2009-18
+  caption: Global spread of influenza H3N2, 2011-13.
   focal_point: Smart
 
 links:
@@ -35,7 +35,7 @@ url_video: ""
 slides: example
 ---
 
-Collins' research work seeks to understand the origins and patterns of spread of human influenza A viruses across geographically defined regions: in a local community in Kenya; countrywide throughout Kenya; continentwide in Africa; and globally across all continents.
+Collins' research work seeks to understand the geographical origins and patterns of spread of human influenza A viruses across geographically defined regions: in a local community in Kenya; countrywide throughout Kenya; continentwide in Africa; and globally across all continents.
 
 The movie below shows the spread of influenza H3N2 virus in Kilifi, coastal Kenya. In the local community, influenza epidemics are initiated by multiple virus introductions into the community, which then spread to multiple locations within the community in a short period of time; usually from populous to less populous locations and between locations in proximity. The rapid spread of the virus throughout Kilifi, considering it being a remote rural location in Kenya, provides evidence of how quickly influenza viruses can spread once introduced into a country, and suggests that vaccine recommendations need widespread global influenza virus sampling from as many understudied localities as possible.  
 
