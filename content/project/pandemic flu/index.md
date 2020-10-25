@@ -14,7 +14,7 @@ date: "2018-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Flu A(H1N1)pdm09 population dynamics, Kenya
+  caption: A decade of changes in flu A(H1N1)pdm09 virus populations in Kenya.
   focal_point: Smart
 
 links:
@@ -35,10 +35,10 @@ url_video: ""
 slides: example
 ---
 
-Collins' PhD study sought to understand the evolution and spread of the **pandemic influenza A(H1N1)pdm09 virus** in Kenya since its global emergence in March 2009 and subsequent introduction into the country in June 2009. He generated virus whole-genome sequences from respiratory samples collected from pandemic influenza A(H1N1)pdm09 virus positive cases admitted to 7 sentinel influenza surveillance sites across Kenya between 2009 and 2018, which he analyzed using advanced bioinformatics techniques. His work is part of global influenza pandemic preparedness via ongoing research and genetic surveillance of influenza.
+Collins' research study into pandemic viruses sought to understand the origins and patterns of spread of the 2009 **pandemic influenza A(H1N1)pdm09 virus** in Kenya since its introduction into Kenya in June 2009. He generated virus genome sequences from respiratory samples collected from influenza A(H1N1)pdm09 virus positive cases admitted to 7 influenza surveillance sites across Kenya between 2009 and 2018, which he analyzed using advanced bioinformatics techniques. His work is part of the global influenza surveillance network to understand the global patterns of spread of influenza viruses.
 
-The genomics and bioinformatics techniques learnt during the project are applicable for research in other emerging and re-emerging pathogens in the country and across the continent. For example, he plans to use the advanced skills to sequence and analyse the novel **SARS-CoV-2 coronavirus** from Kenya; an ongoing pandemic.  
+The genomics and advanced bioinformatics techniques used in his work are applicable for investigating other emerging and re-emerging pathogens, for example, **SARS-CoV-2 coronavirus** associated with the ongoing COVID-19 pandemic.  
 
-The movie below illustrates the evolution and spread of the pandemic A(H1N1)pdm09 virus over the past decade since virus introduction into Kenya in 2009. The phylogenetic tree (**Phylogeny**) is color-coded by health facility and is resolved to show virus spread (**Transmission**) across Kenya, which reveals continuous spread of the virus across the country over the past decade. These findings have important implications for public health practice in Kenya and the region. For example, they suggest that future novel strains of influenza virus (and other emerging and re-emerging viruses) may enter Kenya at multiple locations rather than just through its major airport-transport hub of Nairobi. Thus, surveillance efforts should be concentrated in as many sites as possible for better pandemic preparedness.
+The movie below illustrates the patterns of spread of the 2009 pandemic A(H1N1)pdm09 virus since introduction into Kenya in 2009. Countrywide, influenza spreads from multiple locations to multiple destinations within Kenya and between locations in proximity; the year-round spread of the virus is regulated by virus introductions from outside Kenya. These findings have important implications for public health practice in Kenya and the region. For example, they suggest that future novel strains of influenza virus (and other novel viruses) may enter Kenya at multiple locations rather than just through its major airport-transport hub of Nairobi. Thus, surveillance efforts should be concentrated in as many sites as possible for better pandemic preparedness in the future.
 
 {{< video src="video.mp4" controls="no">}}  
