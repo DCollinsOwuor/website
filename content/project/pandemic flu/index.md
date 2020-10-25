@@ -14,7 +14,7 @@ date: "2018-02-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: A decade of changes in A(H1N1)pdm09 viruses in Kenya.
+  caption: Changes in A(H1N1)pdm09 viruses, Kenya.
   focal_point: Smart
 
 links:
