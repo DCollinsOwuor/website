@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD
     institution: The Open University (UK)
-    year: 2016 - 2020
+    year: 2020
   - course: MSc in Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
