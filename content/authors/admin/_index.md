@@ -22,8 +22,8 @@ interests:
 
 name: David Collins Owuor
 organizations:
-- name: KEMRI-Wellcome Trust
-  url: "https://kemri-wellcome.org"
+- name: 
+  url:
 role: Postdoctoral Fellow
 social:
 - icon: envelope
