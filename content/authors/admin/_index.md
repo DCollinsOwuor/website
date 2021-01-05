@@ -21,10 +21,10 @@ interests:
 - Vaccines
 
 name: David Collins Owuor
-organizations:
+organizations: KEMRI-Wellcome Trust Research Programme
 - name: 
   url:
-role: Postdoctoral Fellow
+role:
 social:
 - icon: envelope
   icon_pack: fas
