@@ -20,8 +20,8 @@ interests:
 - Vaccines
 
 name: David Collins Owuor
-organizations: KEMRI-Wellcome Trust Research Programme
-- name: 
+organizations: 
+- name: KEMRI-Wellcome Trust Research Programme
   url:
 role:
 social:
