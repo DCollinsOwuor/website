@@ -17,7 +17,6 @@ email: "dcollins@kemri-wellcome.org"
 interests:
 - Pathogen genomics and bioinformatics
 - Outbreak (and pandemic) response and preparedness
-- One Health
 - Vaccines
 
 name: David Collins Owuor
