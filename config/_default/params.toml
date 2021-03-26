@@ -1,4 +1,4 @@
-# SITE SETUP
+n# SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
 ############################
@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Research Fellow, KEMRI-Wellcome Trust Research Programme"
+org_name = "Centers for Disease Control and Prevention"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
