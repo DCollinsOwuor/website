@@ -21,9 +21,9 @@ interests:
 
 name: David Collins Owuor
 organizations: 
-- name: KEMRI-Wellcome Trust Research Programme
+- name: Centers for Disease Control and Prevention
   url:
-role:
+role: Guest Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -48,4 +48,4 @@ user_groups:
 
 Collins holds a PhD in Virus Genomics and Bioinformatics. He is currently developing advanced bioinformatics pipelines for analyses of pathogen genome sequence data.
 
-His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus, coronavirus, and Ebola virus. His current research seeks to: determine how closely “related” or similar viruses are to one another genetically; monitor how viruses change over time, genetically; identify genetic changes that affect virus’ properties, for example, genetic changes associated with faster virus spread, causing severe disease; and monitor for genetic changes in zoonotic viruses circulating in animal populations that could enable them to infect humans.
+His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus and SARS-CoV-2 virus. His current research seeks to: determine how closely “related” or similar viruses are to one another genetically; monitor how viruses change over time, genetically; identify genetic changes that affect virus’ properties, for example, genetic changes associated with faster virus spread, causing severe disease; and monitor for genetic changes in zoonotic viruses circulating in animal populations that could enable them to infect humans.
