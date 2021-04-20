@@ -4,13 +4,13 @@ authors:
 bio: My research interests include emerging and re-emerging pathogen genomics and bioinformatics analysis of pathogen genome data.
 education:
   courses:
-  - course: PhD in Viral Genomics and Bioinformatics
+  - course: PhD, Viral Genomics and Bioinformatics
     institution: The Open University (UK)
     year: 2020
-  - course: MSc in Molecular Genetics and Diagnostics
+  - course: MSc, Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
-  - course: BSc in Biomedical Technology
+  - course: BSc, Biomedical Technology
     institution: University of Nairobi (Kenya)
     year: 2010
 email: "dcollins@kemri-wellcome.org"
