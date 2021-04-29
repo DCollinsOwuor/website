@@ -7,10 +7,10 @@ education:
   - course: PhD - Viral Genomics and Bioinformatics
     institution: The Open University (UK)
     year: 2020
-  - course: MSc, Molecular Genetics and Diagnostics
+  - course: MSc - Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
-  - course: BSc, Biomedical Technology
+  - course: BSc - Biomedical Technology
     institution: University of Nairobi (Kenya)
     year: 2010
 email: "dcollins@kemri-wellcome.org"
