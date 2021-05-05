@@ -4,13 +4,13 @@ authors:
 bio: My research interests include emerging and re-emerging pathogen genomics and bioinformatics analysis of pathogen genome data.
 education:
   courses:
-  - course: PhD, Viral Genomics and Bioinformatics
+  - course: PhD in Viral Genomics and Bioinformatics
     institution: The Open University (UK)
     year: 2020
-  - course: MSc, Molecular Genetics and Diagnostics
+  - course: MSc in Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
-  - course: BSc, Biomedical Technology
+  - course: BSc in Biomedical Technology
     institution: University of Nairobi (Kenya)
     year: 2010
 email: "dcollins@kemri-wellcome.org"
@@ -21,9 +21,9 @@ interests:
 
 name: David Collins Owuor
 organizations: 
-- name: Centers for Disease Control and Prevention
+- name: KEMRI-Wellcome Trust Research Programme
   url:
-role: Guest Researcher
+role: CDY Researcher Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Collins holds a PhD in Virus Genomics and Bioinformatics. He is currently using advanced molecular techniques for genomics and diagnostics of viral pathogens and developing advanced bioinformatics pipelines for analyses of pathogen sequence data.
+Collins holds a PhD in Virus Genomics and Bioinformatics. His current research utilizes advanced diagnostics, genomics, and bioinformatics for the analyses of pathogen genome data.
 
-His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus and SARS-CoV-2 virus. His current research seeks to: determine how closely “related” or similar viruses are to one another genetically; monitor how viruses change over time, genetically; identify genetic changes that affect virus’ properties, for example, genetic changes associated with faster virus spread, causing severe disease; and monitor for genetic changes in zoonotic viruses circulating in animal populations that could enable them to infect humans.
+His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus and SARS-CoV-2 virus.
