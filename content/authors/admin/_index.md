@@ -48,4 +48,4 @@ user_groups:
 
 Collins holds a PhD in Virus Genomics and Bioinformatics. His current research applies advanced diagnostics, genomics, and bioinformatics techniques for analyses of pathogen sequence data, with an aim of developing better pathogen diagnostic tools and automated bioinformatics pipelines for pathogen data analyses.
 
-His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus and SARS-CoV-2 virus.
+His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza viruses and SARS-CoV-2 virus.
