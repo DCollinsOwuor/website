@@ -4,7 +4,7 @@ authors:
 bio: My research interests include emerging and re-emerging pathogen genomics and bioinformatics analysis of pathogen genome data.
 education:
   courses:
-  - course: PhD in Viral Genomics and Bioinformatics
+  - course: PhD in Virus Genomics and Bioinformatics
     institution: The Open University (UK)
     year: 2020
   - course: MSc in Molecular Genetics and Diagnostics
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Collins holds a PhD in Virus Genomics and Bioinformatics. His current research utilizes advanced diagnostics, genomics, and bioinformatics for the analyses of pathogen genome data.
+Collins holds a PhD in Virus Genomics and Bioinformatics. His current research applies advanced diagnostics, genomics, and bioinformatics for analyses of pathogen genome data, with an aim of developing better diagnostic methods and bioinfromatics pipelines for pathogen sequence analyses.
 
 His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens that are associated with infectious diseases, for example, influenza virus and SARS-CoV-2 virus.
