@@ -13,7 +13,7 @@ education:
   - course: BSc in Biomedical Technology
     institution: University of Nairobi (Kenya)
     year: 2010
-email: "dcollins@kemri-wellcome.org"
+email: "collinsdowuor@gmail.com"
 interests:
 - Pathogen genomics and bioinformatics
 - Pathogen diagnostics
@@ -22,8 +22,8 @@ interests:
 name: David Collins Owuor
 organizations: 
 - name: KEMRI-Wellcome Trust Research Programme
-  url:
-role: CDY Researcher Fellow
+  url: https://kemri-wellcome.org/home/
+role: CDY Research Fellow
 social:
 - icon: envelope
   icon_pack: fas
