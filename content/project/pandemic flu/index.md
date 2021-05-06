@@ -39,4 +39,4 @@ Collins' research sought to understand the spread of the 2009 **pandemic influen
 
 The movie below illustrates the patterns of spread of A(H1N1)pdm09 viruses in Kenya, 2009-2018. Countrywide, influenza viruses spread from multiple locations to multiple destinations within Kenya and between locations in proximity, with important implications for public health practice in Kenya and the region. For example, they suggest that future novel strains of influenza virus (and other novel viruses) may spread to multiple Kenyan locations following introduction. Thus, surveillance efforts should be concentrated in as many sites as possible for better pandemic preparedness.
 
-{{< video src="video.mov" controls="no">}}  
+{{< video src="video.mp4" controls="no">}}  
