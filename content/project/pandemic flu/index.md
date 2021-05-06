@@ -5,6 +5,8 @@ tags:
 - influenza
 - A(H1N1)pdm09 virus
 - Kenya
+- phylogeography
+- spread
 date: "2020-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -5,6 +5,7 @@ tags:
 - Ebola
 - West Africa
 - Global Outbreak Alert & Response Network
+- diagnostics
 
 date: "2014-10-01T00:00:00Z"
 
