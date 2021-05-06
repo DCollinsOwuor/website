@@ -81,12 +81,12 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "dcollins@kemri-wellcome.org"
+email = "collinsdowuor@gmail.com"
 #phone = "+254 888 88 88"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "", postcode = "", country = "Kenya", country_code = "KE"}
+address = {street = "Kenya", postcode = "", country = "Kenya", country_code = "KE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
