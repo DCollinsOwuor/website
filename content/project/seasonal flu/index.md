@@ -35,8 +35,8 @@ url_video: ""
 slides: example
 ---
 
-Collins' research work sought to understand the patterns of spread of human influenza A viruses across geographically defined regions: in a local community in Kenya; countrywide throughout Kenya; continentwide in Africa; and globally across all continents.
+The role of tropical/sub-tropical countries in the global spread of influenza viruses remains unclear due to insufficient spatiotemporal sequence data from these regions.
 
-The movie below shows the spread of influenza H3N2 virus in Kilifi, coastal Kenya. In the local community, influenza epidemics are initiated by multiple virus introductions into the community, which then spread to multiple locations within the community in a short period of time; usually from populous to less populous locations and between locations in proximity. The rapid spread of the virus throughout Kilifi, considering it being a remote rural location in Kenya, provides evidence of how quickly influenza viruses can spread once introduced into a country, and suggests that vaccine recommendations need widespread global influenza virus sampling from as many understudied localities as possible.  
+The movie below shows the global spread of influenza A(H3N2) virus. Globally, A(H3N2) virus spreads from multiple geographical locations to multiple geographical destinations including Africa, suggesting that the global spread of influenza is driven by different geographical regions that also includes Africa. This underscores the need for strengthened surveillance of influenza in understudied tropical and subtropical regions.  
 
 {{< video src="video.mp4" controls="no">}}
