@@ -34,11 +34,12 @@ abstract: The genomic epidemiology of influenza B virus (IBV) remains understudi
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- flu
+- influenza
 - influenza B virus
 - Kenya
 - phylogeography
 - spread
+- next-generation sequencing
 
 featured: false
 
@@ -75,13 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #   slides: example
 ---
-
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

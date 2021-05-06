@@ -38,12 +38,13 @@ abstract: The spatiotemporal patterns of spread of influenza A(H1N1)pdm09 viruse
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- flu
+- influenza
 - A(H1N1)pdm09 virus
 - Kenya
 - pandemic
 - phylogeography
 - spread
+- next-generation sequencing
 
 featured: false
 
@@ -81,12 +82,3 @@ projects: []
 #   slides: example
 ---
 
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
-
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
-
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
