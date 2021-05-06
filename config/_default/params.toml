@@ -86,11 +86,11 @@ email = "dcollins@kemri-wellcome.org"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Training Building, Office 912, KEMRI-Wellcome Trust Research Programme ", postcode = "P.O. Box 230-80108, Kilifi, Kenya", country = "Kenya", country_code = "KE"}
+address = {street = "Kenya", postcode = "", country = "Kenya", country_code = "KE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-3.6299", longitude = "39.8559"}
+coordinates = {latitude = "0.0236", longitude = "37.9062"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"

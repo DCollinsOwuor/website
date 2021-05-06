@@ -21,9 +21,9 @@ interests:
 
 name: David Collins Owuor
 organizations: 
-- name: KEMRI-Wellcome Trust Research Programme
-  url: https://kemri-wellcome.org/home/
-role: CDY Research Fellow
+- name: Centers for Disease Control and Prevention
+  url: 
+role: Guest Researcher
 social:
 - icon: envelope
   icon_pack: fas
