@@ -3,7 +3,7 @@ title: Ebola virus
 summary: Ebola virus outbreak response in West Africa, 2014-15
 tags:
 - Ebola
-- West Africa
+- Africa
 - Global Outbreak Alert & Response Network
 - diagnostics
 

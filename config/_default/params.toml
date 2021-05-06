@@ -86,7 +86,7 @@ email = "dcollins@kemri-wellcome.org"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Kenya", postcode = "", country = "Kenya", country_code = "KE"}
+address = {street = "", postcode = "", country = "Kenya", country_code = "KE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -249,8 +249,8 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 3
-  api_key = ""
+  engine = 1
+  api_key = "AIzaSyBdE40p9KNd3mm7eVq8VoS00iCQrJG7KPw"
   zoom = 15
 
 ############################
