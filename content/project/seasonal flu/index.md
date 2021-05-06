@@ -14,7 +14,7 @@ date: "2020-01-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Global spread of influenza H3N2, 2011-13.
+  caption: Global spread of influenza A(H3N2), 2011-13.
   focal_point: Smart
 
 links:
@@ -35,8 +35,8 @@ url_video: ""
 slides: example
 ---
 
-The role of tropical/sub-tropical countries in the global spread of influenza viruses remains unclear due to insufficient spatiotemporal sequence data from these regions.
+The role of understudied tropical and sub-tropical countries in the global spread of influenza viruses remains unclear due to insufficient spatiotemporal sequence data from these regions.
 
-The movie below illustrates the global spread of influenza A(H3N2) virus. Globally, viruses spreads from multiple geographical locations to multiple geographical destinations including Africa, suggesting that the global spread of influenza is driven by different geographical regions that also includes Africa; this underscores the need for strengthened surveillance of influenza in understudied tropical and sub-tropical regions.  
+The movie below illustrates the global spread of influenza A(H3N2) virus. Globally, influenza viruses spread from multiple geographical locations to multiple geographical destinations including Africa, suggesting that the global spread of influenza is driven by different geographical regions that also includes Africa (Africa's role shown for the first time in this work). These findings underscore the need for strengthened surveillance of influenza viruses in understudied tropical and sub-tropical regions.  
 
 {{< video src="video.mp4" controls="no">}}
