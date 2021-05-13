@@ -1,36 +1,20 @@
 ---
-title: "Postmortem Study of Cause of Death Among Children Hospitalized With Respiratory Illness in Kenya"
+title: "Comparative analysis of the vaginal microbiome of pregnant women with either Trichomonas vaginalis or Chlamydia trachomatis"
 authors:
-- Henry N Njuguna
-- Sherif R Zaki
-- Drucilla J Roberts
-- Emily A Rogena
-- Edwin Walong
-- Corinne L Fligner
-- Kelly M Keating
-- Andrew K Gachii
-- Elizabeth Maleche-Obimbo
-- Grace Irimu
-- John Mathaiya
-- Noelle Orata
-- Rosemarie Lopokoiyit
-- Jackson Michuki
-- Gideon O Emukule
-- Clayton O Onyango
-- Stella Gikunju
+- Simon Chengo Masha
 - Collins Owuor
-- Peter K Muturi
-- Milka Bunei
-- Maria Gloria Carvalho
-- Barry Fields
-- Joshua A Mott
-- Marc-Alain Widdowson
-- Sandra S Chaves
-date: "2021-05-04T00:00:00Z"
-doi: "doi: 10.1097/INF.0000000000003159"
+- Joyce Mwongeli Ngoi
+- Piet Cools
+- Eduard J. Sanders
+- Mario Vaneechoutte
+- Tania Crucitti
+- Etienne P. de Villiers
+
+date: "2019-12-12T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pone.0225545"
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -39,26 +23,24 @@ doi: "doi: 10.1097/INF.0000000000003159"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "The Pediatric Infectious Disease Journal"
+publication: "PLOS ONE"
 publication_short: ""
 
-abstract: In resource-limited settings, acute respiratory infections continue to be the leading cause of death in young children. We conducted postmortem investigations in children <5 years hospitalized with a clinical diagnosis of respiratory disease at Kenya’s largest referral hospital. We collected respiratory and other tissues postmortem to examine pathologic processes using histology, molecular and immunohistochemistry assays. Nasopharyngeal, trachea, bronchi and lung specimens were tested using 21-target respiratory pathogen real-time reverse transcription polymerase chain reaction assays deployed on Taqman Array Cards. Expert panels reviewed all findings to determine causes of death and associated pathogens. From 2014 to 2015, we investigated 64 pediatric deaths (median age 7 months). Pneumonia was determined as cause of death in 70% (42/52) of cases where death was associated with an infectious disease process. The main etiologies of pneumonia deaths were respiratory syncytial virus (RSV) (n = 7, 19%), Pneumocystis jirovecii (n = 7, 19%), influenza A (n = 5, 14%) and Streptococcus pneumoniae (n = 5, 14%)—10% of cases had multi-pathogen involvement. Among the other 10 deaths associated with a nonpneumonia infectious process, 4 did not have an etiology assigned, the others were associated with miliary tuberculosis (2), cerebral thrombosis due to HIV (1), Enterobacteriaceae (1), rotavirus (1), and 1 case of respiratory infection with severe hypokalemia associated with RSV. In spite of well-established vaccination programs in Kenya, some deaths were still vaccine preventable. Accelerated development of RSV monoclonal antibodies and vaccines, introduction of seasonal influenza vaccination, and maintenance or improved uptake of existing vaccines can contribute to further reductions in childhood mortality.
+abstract: Although the significance of the human vaginal microbiome for health and disease is increasingly acknowledged, there is paucity of data on the differences in the composition of the vaginal microbiome upon infection with different sexually transmitted pathogens. The composition of the vaginal bacterial community of women with Trichomonas vaginalis (TV, N = 18) was compared to that of women with Chlamydia trachomatis (CT, N = 14), and to that of controls (N = 21) (women negative for TV, CT and bacterial vaginosis). The vaginal bacterial composition was determined using high throughput sequencing with the Ion 16S metagenomics kit of the variable regions 2, 4 and 8 of the bacterial 16S ribosomal RNA gene from the vaginal swab DNA extract of the women. QIIME and R package “Phyloseq” were used to assess the α- and β-diversity and absolute abundance of the 16S rRNA gene per sample in the three groups. Differences in taxa at various levels were determined using the independent T-test. A total of 545 operational taxonomic units (OTUs) were identified in all the three groups of which 488 occurred in all three groups (core OTUs). Bacterial α-diversity, by both Simpson’s and Shannon’s indices, was significantly higher, (p = 0.056) and (p = 0.001) respectively, among women with either TV or CT than among controls (mean α-diversity TV-infected > CT-infected > Controls). At the genus level, women infected with TV had a significantly (p < 0.01) higher abundance of Parvimonas and Prevotella species compared to both controls and CT-infected women, whereas women infected with CT had a significantly (p < 0.05) higher abundance of Anaerococcus, Collinsella, Corynebacterium and Dialister. The vaginal microbiomes of TV and CT-infected women were markedly different from each other and from women without TV and CT. Future studies should determine whether the altered microbiomes are merely markers of disease, or whether they actively contribute to the pathology of the two genital infections.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- respiratory disease
+- microbiome
 - diagnostics
-- pneumonia
-- autopsy
-
+- next-generation sequencing
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.lww.com/pidj/Abstract/9000/Postmortem_Study_of_Cause_of_Death_Among_Children.95817.aspx'
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0225545&type=printable
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -69,9 +51,9 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
- # focal_point: ""
+#image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  #focal_point: ""
   #preview_only: false
 
 # Associated Projects (optional).
@@ -86,5 +68,5 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#   slides: example
 ---

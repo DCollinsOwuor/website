@@ -1,18 +1,19 @@
 ---
-title: "Genetic characterization of influenza A(H3N2) viruses circulating in coastal Kenya, 2009‐2017"
+title: "Epidemiological and evolutionary dynamics of influenza B virus in coastal Kenya as revealed by genomic analysis of strains sampled over a single season"
 authors:
+- Festus M. Nyasimi
 - D. Collins Owuor
 - Joyce M. Ngoi
-- James R. Otieno
+- Alexander G. Mwihuri
 - Grieven P. Otieno
-- Festus M. Nyasimi
+- James R. Otieno
+- George Githinji
 - Joyce U. Nyiro
-- Charles N. Agoti
-- Sandra S. Chaves
 - D. James Nokes
+- Charles N. Agoti
 
-date: "2020-01-13T00:00:00Z"
-doi: " https://doi.org/10.1111/irv.12717"
+date: "2020-07-16T00:00:00Z"
+doi: "https://doi.org/10.1093/ve/veaa045"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -24,20 +25,20 @@ doi: " https://doi.org/10.1111/irv.12717"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Influenza and Other Respiratory Viruses"
+publication: "Virus Evolution"
 publication_short: ""
 
-abstract: Influenza viruses evolve rapidly and undergo immune driven selection, especially in the hemagglutinin (HA) protein. We report amino acid changes affecting antigenic epitopes and receptor‐binding sites of A(H3N2) viruses circulating in Kilifi, Kenya, from 2009 to 2017. Next‐generation sequencing (NGS) was used to generate A(H3N2) virus genomic data from influenza‐positive specimens collected from hospital admissions and health facility outpatients presenting with acute respiratory illness to health facilities within the Kilifi Health and Demographic Surveillance System. Full‐length HA sequences were utilized to characterize A(H3N2) virus genetic and antigenic changes. From 186 (90 inpatient and 96 outpatient) influenza A virus‐positive specimens processed, 101 A(H3N2) virus whole genomes were obtained. Among viruses identified in inpatient specimens from 2009 to 2015, divergence of circulating A(H3N2) viruses from the vaccine strains A/Perth/16/2009, A/Texas/50/2012, and A/Switzerland/9715293/2013 formed 6 genetic clades (A/Victoria/208/2009‐like, 3B, 3C, 3C.2a, 4, and 7). Among viruses identified in outpatient specimens from 2015 to 2017, divergence of circulating A(H3N2) viruses from vaccine strain A/Hong Kong/4801/2014 formed clade 3C.2a, subclades 3C.2a2 and 3C.2a3, and subgroup 3C.2a1b. Several amino acid substitutions were associated with the continued genetic evolution of A(H3N2) strains in circulation. Our results suggest continuing evolution of currently circulating A(H3N2) viruses in Kilifi, coastal Kenya and suggest the need for continuous genetic and antigenic viral surveillance of circulating seasonal influenza viruses with broad geographic representation to facilitate prompt and efficient selection of influenza strains for inclusion in future influenza vaccines.
+abstract: The genomic epidemiology of influenza B virus (IBV) remains understudied in Africa despite significance to design of effective local and global control strategies. We undertook surveillance throughout 2016 in coastal Kenya, recruiting individuals presenting with acute respiratory illness at nine outpatient health facilities (any age) or admitted to the Kilifi County Hospital (<5 years old). Whole genomes were sequenced for a selected 111 positives; 94 (84.7%) of B/Victoria lineage and 17 (15.3%) of B/ Yamagata lineage. Inter-lineage reassortment was detected in ten viruses; nine with B/Yamagata backbone but B/Victoria NA and NP segments and one with a B/Victoria backbone but B/Yamagata PB2, PB1, PA, and MP segments. Five phylogenomic clusters were identified among the sequenced viruses; (i), pure B/Victoria clade 1A (n 1⁄4 93, 83.8%), (ii), reassortant B/Victoria clade 1A (n 1⁄4 1, 0.9%), (iii), pure B/Yamagata clade 2 (n 1⁄4 2, 1.8%), (iv), pure B/Yamagata clade 3 (n 1⁄4 6, 5.4%), and (v), reassortant B/Yamagata clade 3 (n 1⁄4 9, 8.1%). Using divergence dates and clustering patterns in the presence of global background sequen- ces, we counted up to twenty-nine independent IBV strain introductions into the study area (􏰀900 km2) in 2016. Local viruses, including the reassortant B/Yamagata strains, clustered closely with viruses from neighbouring Tanzania and Uganda. Our study demonstrated that genomic analysis provides a clearer picture of locally circulating IBV diversity. The high number of IBV introductions highlights the challenge in controlling local influenza epidemics by targeted approaches, for example, sub-population vaccination or patient quarantine. The finding of divergent IBV strains co-circulating within a single season emphasises why broad immunity vaccines are the most ideal for influenza control in Kenya. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - influenza
-- A(H3N2) virus
+- influenza B virus
 - Kenya
-- spread
 - phylogeography
+- spread
 - next-generation sequencing
 
 featured: false
@@ -45,7 +46,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/irv.12717
+url_pdf: https://academic.oup.com/ve/article/6/2/veaa045/5855143
 url_code: ''
 url_dataset: ''
 url_poster: ''
