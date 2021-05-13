@@ -1,26 +1,22 @@
 ---
-title: "Characterizing the countrywide epidemic spread of influenza A(H1N1)pdm09 virus in Kenya between 2009 and 2018"
+title: "Epidemiological and evolutionary dynamics of influenza B virus in coastal Kenya as revealed by genomic analysis of strains sampled over a single season"
 authors:
+- Festus M. Nyasimi
 - D. Collins Owuor
-- Zaydah R. de Laurent
-- Gilbert K. Kikwai
-- Lillian M. Mayieka
-- Melvin Ochieng
-- Nicola F. Müller
-- Nancy A. Otieno
-- Gideon O. Emukule
-- Elizabeth N. Hunsperger
-- Rebecca Garten
-- John R. Barnes
-- Sandra S. Chaves
+- Joyce M. Ngoi
+- Alexander G. Mwihuri
+- Grieven P. Otieno
+- James R. Otieno
+- George Githinji
+- Joyce U. Nyiro
 - D. James Nokes
 - Charles N. Agoti
 
-date: "2021-04-04T00:00:00Z"
-doi: "https://doi.org/10.1101/2021.03.30.212545877"
+date: "2020-07-16T00:00:00Z"
+doi: "https://doi.org/10.1093/ve/veaa045"
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: "2021-04-04T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,19 +25,18 @@ doi: "https://doi.org/10.1101/2021.03.30.212545877"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "MedRxiv"
+publication: "Virus Evolution"
 publication_short: ""
 
-abstract: The spatiotemporal patterns of spread of influenza A(H1N1)pdm09 viruses on a countrywide scale are unclear in many tropical/subtropical regions mainly because spatiotemporally representative sequence data is lacking. We isolated, sequenced, and analyzed 383 influenza A(H1N1)pdm09 viral genomes isolated from hospitalized patients between 2009 and 2018 from seven locations across Kenya. Using these genomes and contemporaneously sampled global sequences, we characterized the spread of the virus in Kenya over several seasons using phylodynamic methods. The transmission dynamics of influenza A(H1N1)pdm09 virus in Kenya was characterized by (i) multiple virus introductions into Kenya over the study period, although these were remarkably few, with only a few of those introductions instigating seasonal epidemics that then established local transmission clusters, (ii) persistence of transmission clusters over several epidemic seasons across the country, (iii) seasonal fluctuations in effective reproduction number (Re) associated with lower number of infections and seasonal fluctuations in relative genetic diversity after an initial rapid increase during the early pandemic phase, which broadly corresponded to epidemic peaks in the northern and southern hemispheres, (iv) high virus genetic diversity with greater frequency of seasonal fluctuations in 2009-11 and 2018 and low virus genetic diversity with relatively weaker seasonal fluctuations in 2012-17, and (v) virus migration from multiple geographical regions to multiple geographical destinations in Kenya. Considerable influenza virus diversity circulates within Africa, as demonstrated in this report, including virus lineages that are unique to the region, which may be capable of dissemination to other continents through a globally migrating virus population. Further knowledge of the viral lineages that circulate within understudied low-to-middle income tropical and subtropical regions is required to understand the full diversity and global ecology of influenza viruses in humans and to inform vaccination strategies within these regions.
+abstract: The genomic epidemiology of influenza B virus (IBV) remains understudied in Africa despite significance to design of effective local and global control strategies. We undertook surveillance throughout 2016 in coastal Kenya, recruiting individuals presenting with acute respiratory illness at nine outpatient health facilities (any age) or admitted to the Kilifi County Hospital (<5 years old). Whole genomes were sequenced for a selected 111 positives; 94 (84.7%) of B/Victoria lineage and 17 (15.3%) of B/ Yamagata lineage. Inter-lineage reassortment was detected in ten viruses; nine with B/Yamagata backbone but B/Victoria NA and NP segments and one with a B/Victoria backbone but B/Yamagata PB2, PB1, PA, and MP segments. Five phylogenomic clusters were identified among the sequenced viruses; (i), pure B/Victoria clade 1A (n 1⁄4 93, 83.8%), (ii), reassortant B/Victoria clade 1A (n 1⁄4 1, 0.9%), (iii), pure B/Yamagata clade 2 (n 1⁄4 2, 1.8%), (iv), pure B/Yamagata clade 3 (n 1⁄4 6, 5.4%), and (v), reassortant B/Yamagata clade 3 (n 1⁄4 9, 8.1%). Using divergence dates and clustering patterns in the presence of global background sequen- ces, we counted up to twenty-nine independent IBV strain introductions into the study area (􏰀900 km2) in 2016. Local viruses, including the reassortant B/Yamagata strains, clustered closely with viruses from neighbouring Tanzania and Uganda. Our study demonstrated that genomic analysis provides a clearer picture of locally circulating IBV diversity. The high number of IBV introductions highlights the challenge in controlling local influenza epidemics by targeted approaches, for example, sub-population vaccination or patient quarantine. The finding of divergent IBV strains co-circulating within a single season emphasises why broad immunity vaccines are the most ideal for influenza control in Kenya. 
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - influenza
-- A(H1N1)pdm09 virus
+- influenza B virus
 - Kenya
-- pandemic
 - phylogeography
 - spread
 - next-generation sequencing
@@ -49,9 +44,9 @@ tags:
 featured: false
 
 # links:
-# - name: "MedRxiv"
+# - name: ""
 #   url: ""
-url_pdf: https://www.medrxiv.org/content/10.1101/2021.03.30.21254587v1.full.pdf
+url_pdf: https://academic.oup.com/ve/article/6/2/veaa045/5855143
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -81,4 +76,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #   slides: example
 ---
-

@@ -1,18 +1,17 @@
 ---
-title: "Genetic characterization of influenza A(H3N2) viruses circulating in coastal Kenya, 2009‐2017"
+title: "Comparative analysis of the vaginal microbiome of pregnant women with either Trichomonas vaginalis or Chlamydia trachomatis"
 authors:
-- D. Collins Owuor
-- Joyce M. Ngoi
-- James R. Otieno
-- Grieven P. Otieno
-- Festus M. Nyasimi
-- Joyce U. Nyiro
-- Charles N. Agoti
-- Sandra S. Chaves
-- D. James Nokes
+- Simon Chengo Masha
+- Collins Owuor
+- Joyce Mwongeli Ngoi
+- Piet Cools
+- Eduard J. Sanders
+- Mario Vaneechoutte
+- Tania Crucitti
+- Etienne P. de Villiers
 
-date: "2020-01-13T00:00:00Z"
-doi: " https://doi.org/10.1111/irv.12717"
+date: "2019-12-12T00:00:00Z"
+doi: "https://doi.org/10.1371/journal.pone.0225545"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -24,28 +23,24 @@ doi: " https://doi.org/10.1111/irv.12717"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Influenza and Other Respiratory Viruses"
+publication: "PLOS ONE"
 publication_short: ""
 
-abstract: Influenza viruses evolve rapidly and undergo immune driven selection, especially in the hemagglutinin (HA) protein. We report amino acid changes affecting antigenic epitopes and receptor‐binding sites of A(H3N2) viruses circulating in Kilifi, Kenya, from 2009 to 2017. Next‐generation sequencing (NGS) was used to generate A(H3N2) virus genomic data from influenza‐positive specimens collected from hospital admissions and health facility outpatients presenting with acute respiratory illness to health facilities within the Kilifi Health and Demographic Surveillance System. Full‐length HA sequences were utilized to characterize A(H3N2) virus genetic and antigenic changes. From 186 (90 inpatient and 96 outpatient) influenza A virus‐positive specimens processed, 101 A(H3N2) virus whole genomes were obtained. Among viruses identified in inpatient specimens from 2009 to 2015, divergence of circulating A(H3N2) viruses from the vaccine strains A/Perth/16/2009, A/Texas/50/2012, and A/Switzerland/9715293/2013 formed 6 genetic clades (A/Victoria/208/2009‐like, 3B, 3C, 3C.2a, 4, and 7). Among viruses identified in outpatient specimens from 2015 to 2017, divergence of circulating A(H3N2) viruses from vaccine strain A/Hong Kong/4801/2014 formed clade 3C.2a, subclades 3C.2a2 and 3C.2a3, and subgroup 3C.2a1b. Several amino acid substitutions were associated with the continued genetic evolution of A(H3N2) strains in circulation. Our results suggest continuing evolution of currently circulating A(H3N2) viruses in Kilifi, coastal Kenya and suggest the need for continuous genetic and antigenic viral surveillance of circulating seasonal influenza viruses with broad geographic representation to facilitate prompt and efficient selection of influenza strains for inclusion in future influenza vaccines.
+abstract: Although the significance of the human vaginal microbiome for health and disease is increasingly acknowledged, there is paucity of data on the differences in the composition of the vaginal microbiome upon infection with different sexually transmitted pathogens. The composition of the vaginal bacterial community of women with Trichomonas vaginalis (TV, N = 18) was compared to that of women with Chlamydia trachomatis (CT, N = 14), and to that of controls (N = 21) (women negative for TV, CT and bacterial vaginosis). The vaginal bacterial composition was determined using high throughput sequencing with the Ion 16S metagenomics kit of the variable regions 2, 4 and 8 of the bacterial 16S ribosomal RNA gene from the vaginal swab DNA extract of the women. QIIME and R package “Phyloseq” were used to assess the α- and β-diversity and absolute abundance of the 16S rRNA gene per sample in the three groups. Differences in taxa at various levels were determined using the independent T-test. A total of 545 operational taxonomic units (OTUs) were identified in all the three groups of which 488 occurred in all three groups (core OTUs). Bacterial α-diversity, by both Simpson’s and Shannon’s indices, was significantly higher, (p = 0.056) and (p = 0.001) respectively, among women with either TV or CT than among controls (mean α-diversity TV-infected > CT-infected > Controls). At the genus level, women infected with TV had a significantly (p < 0.01) higher abundance of Parvimonas and Prevotella species compared to both controls and CT-infected women, whereas women infected with CT had a significantly (p < 0.05) higher abundance of Anaerococcus, Collinsella, Corynebacterium and Dialister. The vaginal microbiomes of TV and CT-infected women were markedly different from each other and from women without TV and CT. Future studies should determine whether the altered microbiomes are merely markers of disease, or whether they actively contribute to the pathology of the two genital infections.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- influenza
-- A(H3N2) virus
-- Kenya
-- spread
-- phylogeography
+- microbiome
+- diagnostics
 - next-generation sequencing
-
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1111/irv.12717
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0225545&type=printable
 url_code: ''
 url_dataset: ''
 url_poster: ''
