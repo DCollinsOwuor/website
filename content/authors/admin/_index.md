@@ -21,9 +21,9 @@ interests:
 
 name: David Collins Owuor
 organizations: 
-- name: Centers for Disease Control and Prevention
+- name: Centers for Disease Control and WHO Collaborating Centre for Surveillance, Epidemiology and Control of Influenza
   url: 
-role: Guest Researcher
+role: 
 social:
 - icon: envelope
   icon_pack: fas
