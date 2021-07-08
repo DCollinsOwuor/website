@@ -14,7 +14,7 @@ authors:
 - Simon David William Frost
 - Julius Julian Lutwama
 date: "2021-07-05T00:00:00Z"
-doi: "doi: https://doi.org/10.1101/2021.07.05.451078"
+doi: "https://doi.org/10.1101/2021.07.05.451078"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
