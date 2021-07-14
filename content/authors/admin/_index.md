@@ -4,13 +4,13 @@ authors:
 bio: My research interests include diagnostics, genomics, and bioinformatics analysis of sequence data of emerging and re-emerging pathogens.
 education:
   courses:
-  - course: PhD in virus genomics and bioinformatics
+  - course: PhD in Virus Genomics and Bioinformatics
     institution: The Open University (UK)
     year: 2020
-  - course: MSc in molecular genetics and diagnostics
+  - course: MSc in Molecular Genetics and Diagnostics
     institution: University of Nottingham (UK)
     year: 2012
-  - course: BSc in biomedical technology
+  - course: BSc in Biomedical Technology
     institution: University of Nairobi (Kenya)
     year: 2010
 email: "collinsdowuor@gmail.com"
@@ -23,7 +23,7 @@ name: David Collins Owuor
 organizations: 
 - name: KEMRI-Wellcome Trust Research Programme
   url: 
-role: 
+role: CDY Fellow
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,6 +46,6 @@ user_groups:
 - Visitors
 ---
 
-Collins holds a PhD in virus genomics and bioinformatics. His current research applies advanced techniques (diagnostics, genomics, and bioinformatics) in the analyses of pathogen sequence data, with the aim of developing improved diagnostic tools and automated bioinformatics pipelines for pathogen sequence data analysis.
+Collins holds a PhD in Virus Genomics and Bioinformatics. His current research applies advanced techniques (diagnostics, genomics, and bioinformatics) in the analyses of pathogen sequence data, with the aim of developing improved diagnostic tools and automated bioinformatics pipelines for pathogen sequence data analysis.
 
 His research interests, which aim to inform public health interventions, include molecular epidemiology of emerging and re-emerging viral pathogens of public health importance, for example, influenza viruses and SARS-CoV-2 virus.
